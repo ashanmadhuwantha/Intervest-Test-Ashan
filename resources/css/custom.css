@@ -1,0 +1,38 @@
+.p-50{
+    padding: 50px;
+}
+.bg-brand{
+    background-color: #473f98;
+    color: #fff;
+}
+a{
+    color: #fff!important;
+}
+body{
+    font-family: Monospaced!important;
+}
+.card{
+    color: #fff;
+    min-height: 180px!important;
+    border: none!important;
+    box-shadow: 1px 1px  aliceblue;
+}
+.card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.help-section .card{
+    color: #000!important;
+    border: 1px solid grey!important;
+}
+.mr-5{
+    margin-right: 5px;
+}
+.mr-10{
+    margin-right: 10px;
+}
+.end{
+    display: flex;
+    justify-content: end;
+}
